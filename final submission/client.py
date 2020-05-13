@@ -1,4 +1,4 @@
-#Samuel Liu SID: 861270589
+#Samuel Liu SID: 
 #CS164 Mininet Topology Project
 #implemented up to part 3
 
